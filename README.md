@@ -3,7 +3,7 @@
 <b>I'm intereted in developing Android Applications as well as Websites.</b>
 
 <br />
-<img src="https://cdn1.iconfinder.com/data/icons/social-links/26/playstore-512.png" style="width:12px" /> View my apps on Google Play Store
+<img src="https://cdn1.iconfinder.com/data/icons/social-links/26/playstore-512.png" style="width:100px" /> View my apps on Google Play Store
 
 <br />
 
