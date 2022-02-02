@@ -31,3 +31,18 @@ Make Polls and Get Opinions.
 💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.dictionary">Dictionary</a></b> -
 Find meanings easily.
 <br />
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=fazil2003&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazil2003&langs_count=10hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td>
+</tr>
+</table>  
+
+<!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samyukthagopalsamy.samyukthagopalsamy) 
+-->
