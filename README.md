@@ -28,6 +28,14 @@ Build the Professional Resume.
 Make Polls and Get Opinions.
 <br />
 
+💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.paint">Paint</a></b> -
+Make colorful drawings!!!
+<br />
+
+💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.tasks">Tasks</a></b> -
+Keep track of all your tasks.
+<br />
+
 💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.dictionary">Dictionary</a></b> -
 Find meanings easily.
 <br />
