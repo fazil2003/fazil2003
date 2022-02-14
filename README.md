@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Mohamed Fazil Z
-<b>I'm intereted in developing Android Applications as well as Websites.</b>
+<b>I'm interested in developing Android Applications as well as Websites.</b>
 
 <br />
 <img src="https://lh3.googleusercontent.com/k-2BsI5KgLC2JxQd2rFA-3RHg8-tvoXjinZFNvZLnGlbcxR8xkVM9GW3tqBK5xbTSJKr3-Ei2SVuDoAuYaR3-AL5DVlV5vNj10d6x-604UYNa0sfGEU=s0" style="width:250px" /> View my apps on Google Play Store
