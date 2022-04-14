@@ -14,7 +14,7 @@ Let's have a look at the apps that i've developed on Google Play Store.
 
   <tr>
     <td valign="top" width="10%">
-      <img src="./images/apps/logo-answer.png" style="width:30px" />
+      <img src="./images/apps/logo-answer.png" style="width:50px" />
     </td>
     <td valign="top" width="30%">
       <b>Answer</b>
