@@ -17,10 +17,10 @@ Let's have a look at the apps that i've developed on Google Play Store.
       <img src="./images/apps/logo-answer.png" style="width:50px" />
     </td>
     <td valign="top" width="30%">
-      <b>Answer</b>
+      <b>Answer - Ask Questions, Doubts</b>
     </td>
     <td valign="top" width="40%">
-      Ask Questions and Get Answers
+      Answer is a simple Q&A Platform. It was specially designed for students, who can ask their doubts and solve the doubts of others. So, you can help others in their homework.
     </td>
     <td valign="top" width="10%">
       <a href="https://play.google.com/store/apps/details?id=com.fazil.answer">View</a>
