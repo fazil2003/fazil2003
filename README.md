@@ -3,7 +3,6 @@
 - I'm interested in developing Android Applications as well as Websites.
 - I love to learn new things.
 
-<br />
 <img src="./image.png" style="width:300px" />
 Let's have a look at the apps that i've developed on Google Play Store.
 
