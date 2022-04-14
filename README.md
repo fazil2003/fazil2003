@@ -1,17 +1,33 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mohamed Fazil Z
+# Hi there <img src="./images/gif/Hi.gif" width="29px">, I'm Mohamed Fazil Z
 - I'm an undergrad student studying Information Technology at PSGCT.
 - I'm interested in developing Android Applications as well as Websites.
 - I love to learn new things.
 
-<img src="./image.png" style="width:300px" />
+<img src="./images/front-image.png" style="width:300px" />
 Let's have a look at the apps that i've developed on Google Play Store.
 
 <br />
 
 ## 🌟 Apps 🌟
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.answer">Answer</a></b> -
-Ask Questions and Get Answers.
-<br />
+
+<table>
+
+  <tr>
+    <td valign="top" width="10%">
+      <img src="./images/apps/logo-answer.png" style="width:30px" />
+    </td>
+    <td valign="top" width="30%">
+      <b>Answer</b>
+    </td>
+    <td valign="top" width="50%">
+      Ask Questions and Get Answers
+    </td>
+    <td valign="top" width="10%">
+      <a href="https://play.google.com/store/apps/details?id=com.fazil.answer">View</a>
+    </td>
+  </tr>
+
+</table>  
 
 💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.htmleditor">HTML Editor</a></b> -
 Create, Edit & Run HTML Files.
@@ -123,14 +139,14 @@ Find meanings easily.
 <br />
 
 <table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=fazil2003&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazil2003&langs_count=10hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=fazil2003&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazil2003&langs_count=10hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
 </table>  
 
 <!--
