@@ -7,7 +7,7 @@
 
 ## 🌟 Apps 🌟
 
-💫 Let's have a look at the apps that i've developed on Google Play Store.
+💫 Let's have a look at the apps that I've developed & published on Google Play Store.
 
 <br />
 
