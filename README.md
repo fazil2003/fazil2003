@@ -1,9 +1,10 @@
-### Hi there 👋
-## I'm Mohamed Fazil Z
-<b>I'm interested in developing Android Applications as well as Websites.</b>
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mohamed Fazil Z
+<b>- I'm an undergrad student studying Information Technology at PSGCT.</b>
+<b>- I'm interested in developing Android Applications as well as Websites.</b>
+<b>- I love to learn new things.</b>
 
 <br />
-<img src="https://lh3.googleusercontent.com/k-2BsI5KgLC2JxQd2rFA-3RHg8-tvoXjinZFNvZLnGlbcxR8xkVM9GW3tqBK5xbTSJKr3-Ei2SVuDoAuYaR3-AL5DVlV5vNj10d6x-604UYNa0sfGEU=s0" style="width:250px" /> View my apps on Google Play Store
+<img src="https://lh3.googleusercontent.com/k-2BsI5KgLC2JxQd2rFA-3RHg8-tvoXjinZFNvZLnGlbcxR8xkVM9GW3tqBK5xbTSJKr3-Ei2SVuDoAuYaR3-AL5DVlV5vNj10d6x-604UYNa0sfGEU=s0" style="width:200px" /> View my apps on Google Play Store
 
 <br />
 
@@ -38,6 +39,25 @@ Keep track of all your tasks.
 
 💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.dictionary">Dictionary</a></b> -
 Find meanings easily.
+<br />
+
+<br />
+
+### Connect with me
+
+<a href="mailto:mohamedfazil463@gmail.com">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/mohamed-fazil-z-30b089193/">
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+</a>
+<!-- <a href="https://twitter.com/imtharunn">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+</a>
+<a href="https://codepen.io/imtharun">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
+</a>   -->
+
 <br />
 
 <br />
