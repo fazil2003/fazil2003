@@ -41,8 +41,6 @@ Keep track of all your tasks.
 Find meanings easily.
 <br />
 
-<br />
-
 ### Connect with me
 
 <a href="mailto:mohamedfazil463@gmail.com">
@@ -59,7 +57,7 @@ Find meanings easily.
 </a>   -->
 
 <br />
-
+<br />
 <br />
 
 <table>
