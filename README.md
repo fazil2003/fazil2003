@@ -107,6 +107,10 @@
 
 <br />
 
+## 🌟 My Skills 🌟
+
+<br />
+
 <table>
 
   <tr>
