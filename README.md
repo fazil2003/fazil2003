@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mohamed Fazil Z
 - I'm an undergrad student studying Information Technology at PSGCT.
 - I'm interested in developing Android Applications as well as Websites.
@@ -6,6 +7,15 @@
 <br />
 <img src="./image.png" style="width:500px" /><br />
 Let's have a look at the apps that i've developed on Google Play Store.
+=======
+### Hi there 👋
+## I'm Mohamed Fazil Z
+<b>I'm intereted in developing Android Applications as well as Websites.</b>
+
+<br />
+<img src="https://cdn1.iconfinder.com/data/icons/social-links/26/playstore-512.png" style="width:12px" />
+ View my apps on Google Play Store
+>>>>>>> 3c6d7741215eb460ca9d24156fb947e4649ec4cb
 
 <br />
 
@@ -30,6 +40,7 @@ Build the Professional Resume.
 Make Polls and Get Opinions.
 <br />
 
+<<<<<<< HEAD
 💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.paint">Paint</a></b> -
 Make colorful drawings!!!
 <br />
@@ -75,3 +86,8 @@ Find meanings easily.
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samyukthagopalsamy.samyukthagopalsamy) 
 -->
+=======
+💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.dictionary">Dictionary</a></b> -
+Find meanings easily.
+<br />
+>>>>>>> 3c6d7741215eb460ca9d24156fb947e4649ec4cb
