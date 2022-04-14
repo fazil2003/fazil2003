@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mohamed Fazil Z
-<b>- I'm an undergrad student studying Information Technology at PSGCT.</b>
-<b>- I'm interested in developing Android Applications as well as Websites.</b>
-<b>- I love to learn new things.</b>
+- I'm an undergrad student studying Information Technology at PSGCT.
+- I'm interested in developing Android Applications as well as Websites.
+- I love to learn new things.
 
 <br />
 <img src="https://lh3.googleusercontent.com/k-2BsI5KgLC2JxQd2rFA-3RHg8-tvoXjinZFNvZLnGlbcxR8xkVM9GW3tqBK5xbTSJKr3-Ei2SVuDoAuYaR3-AL5DVlV5vNj10d6x-604UYNa0sfGEU=s0" style="width:200px" /> View my apps on Google Play Store
