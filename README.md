@@ -5,8 +5,6 @@
 
 <img src="./images/front-image.png" style="width:300px" />
 
-<br />
-
 ## 🌟 Apps 🌟
 
 Let's have a look at the apps that i've developed on Google Play Store.
@@ -15,6 +13,7 @@ Let's have a look at the apps that i've developed on Google Play Store.
 
 <table>
 
+  <!-- ANSWER APP -->
   <tr>
     <td valign="top" width="10%">
       <img src="./images/apps/logo-answer.png" />
@@ -32,35 +31,81 @@ Let's have a look at the apps that i've developed on Google Play Store.
     </td>
   </tr>
 
+  <!-- HTML EDITOR APP -->
+  <tr>
+    <td valign="top" width="10%">
+      <img src="./images/apps/logo-html-editor.png" />
+    </td>
+    <td valign="top" width="30%">
+      <b>HTML Editor - HTML, CSS & JS</b>
+    </td>
+    <td valign="top" width="50%">
+      HTML Editor App is the best place for you to code and run the HTML (Hyper Text Markup Language), CSS (Cascading Style Sheets) and JS (JavaScript) codes smoothly & easily. Now, it also supports jQuery as well as AJAX. It is much faster and better than most of the other applications to edit & run the HTML, CSS and JavaScript Codes on mobile.
+    </td>
+    <td valign="top" width="10%">
+      <a href="https://play.google.com/store/apps/details?id=com.fazil.htmleditor">
+        <b>View</b>
+      </a>
+    </td>
+  </tr>
+
+  <!-- PYTHON IDE APP -->
+  <tr>
+    <td valign="top" width="10%">
+      <img src="./images/apps/logo-python-ide.png" />
+    </td>
+    <td valign="top" width="30%">
+      <b>Python IDE Mobile Editor</b>
+    </td>
+    <td valign="top" width="50%">
+      Python IDE is the best mobile app to edit and run the python codes easily. It even supports numpy module. It is much faster than other applications to edit Python Codes on mobile.
+    </td>
+    <td valign="top" width="10%">
+      <a href="https://play.google.com/store/apps/details?id=com.fazil.pythonide">
+        <b>View</b>
+      </a>
+    </td>
+  </tr>
+
+  <!-- RESUME BUILDER APP -->
+  <tr>
+    <td valign="top" width="10%">
+      <img src="./images/apps/logo-resume-builder.png" />
+    </td>
+    <td valign="top" width="30%">
+      <b>Resume Builder - CV Maker</b>
+    </td>
+    <td valign="top" width="50%">
+      It allows you to create, edit, preview the resumes in PDF and then you can download the resume on your local memory.
+    </td>
+    <td valign="top" width="10%">
+      <a href="https://play.google.com/store/apps/details?id=app.fazil.resumebuilder">
+        <b>View</b>
+      </a>
+    </td>
+  </tr>
+
+  <!-- POLLS APP -->
+  <tr>
+    <td valign="top" width="10%">
+      <img src="./images/apps/logo-mypolls.png" />
+    </td>
+    <td valign="top" width="30%">
+      <b>Polls - Create Polls & Surveys</b>
+    </td>
+    <td valign="top" width="50%">
+      The Polls App will help you to decide what to do among your choices from others. You can create up to 10 polls and run them simultaneously.
+    </td>
+    <td valign="top" width="10%">
+      <a href="https://play.google.com/store/apps/details?id=com.fazil.mypolls">
+        <b>View</b>
+      </a>
+    </td>
+  </tr>
+
 </table>  
 
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.htmleditor">HTML Editor</a></b> -
-Create, Edit & Run HTML Files.
-<br />
-
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.pythonide">Python IDE</a></b> -
-Create, Edit & Run Python Files.
-<br />
-
-💫 <b><a href="https://play.google.com/store/apps/details?id=app.fazil.resumebuilder">Resume Builder</a></b> -
-Build the Professional Resume.
-<br />
-
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.mypolls">Polls</a></b> -
-Make Polls and Get Opinions.
-<br />
-
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.paint">Paint</a></b> -
-Make colorful drawings!!!
-<br />
-
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.tasks">Tasks</a></b> -
-Keep track of all your tasks.
-<br />
-
-💫 <b><a href="https://play.google.com/store/apps/details?id=com.fazil.dictionary">Dictionary</a></b> -
-Find meanings easily.
-<br />
+💫 
 
 <br />
 
