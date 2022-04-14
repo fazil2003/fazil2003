@@ -13,13 +13,13 @@ Let's have a look at the apps that i've developed on Google Play Store.
 <table>
 
   <tr>
-    <td valign="top" width="10%">
+    <td valign="top" width="20%">
       <img src="./images/apps/logo-answer.png" style="width:50px" />
     </td>
     <td valign="top" width="30%">
       <b>Answer</b>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       Ask Questions and Get Answers
     </td>
     <td valign="top" width="10%">
