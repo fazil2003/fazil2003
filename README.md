@@ -41,6 +41,68 @@ Keep track of all your tasks.
 Find meanings easily.
 <br />
 
+<br />
+
+<table>
+
+  <tr>
+    <td valign="top" width="50%">
+      <b>Programming & Scripting Languages</b>
+    </td>
+    <td valign="top" width="50%">
+      C, C++, Java, Python
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <b>Web Technologies</b>
+    </td>
+    <td valign="top" width="50%">
+      HTML, CSS, JavaScript, NodeJS, ReactJS, PHP 
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <b>Frameworks</b>
+    </td>
+    <td valign="top" width="50%">
+      Django, Flask, Keras, Kivy, NumPy, OpenCV, Pandas 
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <b>Databases</b>
+    </td>
+    <td valign="top" width="50%">
+      MySQL, Oracle, SQLite
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <b>Operating Systems</b>
+    </td>
+    <td valign="top" width="50%">
+      Linux, Windows
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <b>Tools & Technologies</b>
+    </td>
+    <td valign="top" width="50%">
+      Android Studio, Google Ads, Google Analytics, Visual Studio Code
+    </td>
+  </tr>
+
+</table> 
+
+<br />
+
 ### Connect with me
 
 <a href="mailto:mohamedfazil463@gmail.com">
