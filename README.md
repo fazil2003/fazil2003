@@ -23,7 +23,9 @@ Let's have a look at the apps that i've developed on Google Play Store.
       Answer is a simple Q&A Platform. It was specially designed for students, who can ask their doubts and solve the doubts of others. So, you can help others in their homework.
     </td>
     <td valign="top" width="10%">
-      <a href="https://play.google.com/store/apps/details?id=com.fazil.answer">View</a>
+      <a href="https://play.google.com/store/apps/details?id=com.fazil.answer">
+        <b>View</b>
+      </a>
     </td>
   </tr>
 
