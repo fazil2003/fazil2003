@@ -4,11 +4,14 @@
 - I love to learn new things.
 
 <img src="./images/front-image.png" style="width:300px" />
-Let's have a look at the apps that i've developed on Google Play Store.
 
 <br />
 
 ## 🌟 Apps 🌟
+
+Let's have a look at the apps that i've developed on Google Play Store.
+
+<br />
 
 <table>
 
