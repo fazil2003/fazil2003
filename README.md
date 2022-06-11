@@ -40,7 +40,7 @@
       <b>HTML Editor - HTML, CSS & JS</b>
     </td>
     <td valign="top" width="50%">
-      HTML Editor App is the best place for you to code and run the HTML (Hyper Text Markup Language), CSS (Cascading Style Sheets) and JS (JavaScript) codes smoothly & easily. Now, it also supports jQuery as well as AJAX. It is much faster and better than most of the other applications to edit & run the HTML, CSS and JavaScript Codes on mobile.
+      HTML Editor App is the best place for you to code and run the HTML (Hyper Text Markup Language), CSS (Cascading Style Sheets) and JS (JavaScript) codes smoothly & easily.
     </td>
     <td valign="top" width="10%">
       <a href="https://play.google.com/store/apps/details?id=com.fazil.htmleditor">
