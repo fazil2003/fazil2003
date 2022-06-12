@@ -1,9 +1,26 @@
 # Hi there <img src="./images/gif/Hi.gif" width="35px" height="35px">, I'm Mohamed Fazil Z
 - I'm an undergrad student studying Information Technology at PSGCT.
 - I'm interested in developing Android Applications as well as Websites.
-- I love to learn new things.
+- I love to learn new things and to implement those in the real world applications.
 
 <img src="./images/front-image.png" style="width:300px" />
+
+## 🌟 Currently working 🌟
+### easyDSI - Python library
+I've been working on developing a data structures implementation library in python.
+If you would like to have a look at the project or wanna contribute to the project, then please kinldy visit this link.
+<br />
+<a href="https://github.com/fazil2003/easydsi">
+  <b>EasyDSI (GitHub)</b>
+</a>
+
+Link to the Library in PyPI.
+<br />
+<a href="https://pypi.org/project/easydsi/">
+  <b>EasyDSI (PyPI)</b>
+</a>
+<br />
+<br />
 
 ## 🌟 Apps 🌟
 
@@ -171,14 +188,23 @@
 
 <br />
 
-### Connect with me
+## Connect with me
 
-<a href="mailto:mohamedfazil463@gmail.com">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/mohamed-fazil-z-30b089193/">
-  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:mohamedfazil463@gmail.com">
+        <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/mohamed-fazil-z-30b089193/">
+        <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- <a href="https://twitter.com/imtharunn">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
@@ -186,8 +212,6 @@
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
 </a>   -->
 
-<br />
-<br />
 <br />
 
 <table>
@@ -200,6 +224,8 @@
     </td>
   </tr>
 </table>  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffazil2003%2Feasydsi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samyukthagopalsamy.samyukthagopalsamy) 
