@@ -26,7 +26,7 @@ Link to the Library in PyPI.
 
 ## 🌟 Apps 🌟
 
-💫 Let's have a look at the apps that I've developed & published on Google Play Store.
+💫 Have a look at the apps that I've developed & published on Google Play Store.
 
 <br />
 
