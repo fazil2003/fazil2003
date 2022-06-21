@@ -8,8 +8,9 @@
 ## 🌟 Currently working 🌟
 ### easyDSI - Python library
 I've been working on developing a data structures implementation library in python.
-If you would like to have a look at the project or wanna contribute to the project, then please kinldy visit this link.
+If you would like to have a look at the project or want to contribute to the project, then please kindly visit thie following link.
 <br />
+Link to the Github repository.
 <a href="https://github.com/fazil2003/easydsi">
   <b>EasyDSI (GitHub)</b>
 </a>
