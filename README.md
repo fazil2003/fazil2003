@@ -200,7 +200,7 @@ Link to the Library in PyPI.
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/mohamed-fazil-z-30b089193/">
+      <a href="https://www.linkedin.com/in/mohamed-fazil-z-30b089193/">
         <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
       </a>
     </td>
