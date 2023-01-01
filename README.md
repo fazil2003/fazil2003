@@ -1,7 +1,5 @@
-# Hi there <img src="./images/gif/Hi.gif" width="35px" height="35px">, I'm Mohamed Fazil Z
+# Hi there, I'm Mohamed Fazil Z
 - I'm an undergrad student studying Information Technology at PSGCT.
-- I'm interested in developing Android Applications as well as Websites.
-- I love to learn new things and to implement those in the real world applications.
 
 <table>
   <tr>
