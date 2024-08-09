@@ -1,5 +1,6 @@
 # Hi there, I'm Mohamed Fazil Z
-- I'm an undergrad student studying Information Technology at PSGCT.
+- I'm a software engineer at Arista Networks.
+- I love developing Android Apps and Websites.
 
 <!-- <table>
   <tr>
