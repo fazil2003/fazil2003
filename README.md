@@ -4,12 +4,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Fazil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazil2003&show_icons=true&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff&icon_color=8A2BE2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazil2003&layout=compact&bg_color=30,000000,4B0082&title_color=ffffff&text_color=ffffff)
-
-
-<!-- <table>
+<table>
   <tr>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=fazil2003&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -18,7 +13,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazil2003&langs_count=10hide_border=true&layout=compact" align="left" style="width: 100%" />
     </td>
   </tr>
-</table>   -->
+</table>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffazil2003%2Feasydsi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
